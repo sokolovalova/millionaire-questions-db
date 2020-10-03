@@ -1,0 +1,14 @@
+{
+  "name": "questions-millionaire",
+  "version": "1.0.0",
+  "description": "\t",
+  "main": "index.js",
+  "scripts": {
+    "json:server":"json-server --watch --port=3001 db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
